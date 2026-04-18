@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int N;  
-    cout<<"Masukkan sebuahuah bilangan Bulat :"<<endl;
+    cout<<"Masukkan sebuah bilangan Bulat :"<<endl;
     cin>>N;
 
     if (N <= 0) {
